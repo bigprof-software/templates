@@ -8,11 +8,11 @@ Feel free to add your own. There isn't really a common theme.
 
 ## List
 
-- [Pitch](https://github.com/kbariotis/templates/tree/master/templates/PITCH)
-- [Vision](https://github.com/kbariotis/templates/tree/master/templates/VISION)
-- [Strategy](https://github.com/kbariotis/templates/tree/master/templates/STRATEGY)
-- [Product Requirements](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_REQUIREMENTS)
-- [Technical Design](https://github.com/kbariotis/templates/tree/master/templates/TECHNICAL_DESIGN)
-- [Product Opportunity Assessment](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
-- [Product Vision](https://github.com/kbariotis/templates/tree/master/templates/PRODUCT_VISION)
-- [Run Book](https://github.com/kbariotis/templates/tree/master/templates/RUN_BOOK)
+- [Pitch](templates/tree/master/templates/PITCH)
+- [Vision](templates/tree/master/templates/VISION)
+- [Strategy](templates/tree/master/templates/STRATEGY)
+- [Product Requirements](templates/tree/master/templates/PRODUCT_REQUIREMENTS)
+- [Technical Design](templates/tree/master/templates/TECHNICAL_DESIGN)
+- [Product Opportunity Assessment](templates/tree/master/templates/PRODUCT_OPPORTUNITY_ASSESSMENT)
+- [Product Vision](templates/tree/master/templates/PRODUCT_VISION)
+- [Run Book](templates/tree/master/templates/RUN_BOOK)
